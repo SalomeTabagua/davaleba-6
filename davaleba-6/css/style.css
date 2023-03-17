@@ -1,0 +1,264 @@
+.begin {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 60px;
+}
+.title1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  width: 716px;
+  height: 26px;
+  color: #282828;
+}
+.title2 {
+  width: 716px;
+  height: 62px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 54px;
+}
+.p1 {
+  width: 760px;
+  height: 70px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 35px;
+  color: #5f6980;
+}
+.s1 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  display: inline-block;
+  height: 430px;
+  margin-left: 50px;
+}
+.imgg {
+  height: 230px;
+  width: 310px;
+}
+.blue {
+  width: 278px;
+  height: 30px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 10px;
+  line-height: 30px;
+}
+.blue2 {
+  width: 278px;
+  height: 22px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 10px;
+  line-height: 22px;
+}
+
+.p2 {
+  width: 278px;
+  height: 44px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22p;
+  padding: 10px;
+  line-height: 22px;
+}
+
+.logoebi {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  margin-top: 50px;
+}
+.s2 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  width: 310px;
+  height: 430px;
+  margin-left: 400px;
+  margin-top: -430px;
+}
+.imgg2 {
+  height: 230px;
+  width: 310px;
+}
+.s3 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  width: 310px;
+  height: 430px;
+  margin-left: 750px;
+  margin-top: -430px;
+}
+.imgg3 {
+  height: 230px;
+  width: 310px;
+}
+.s4 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  width: 310px;
+  height: 430px;
+  margin-left: 1100px;
+  margin-top: -430px;
+}
+.s5 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  width: 310px;
+  height: 430px;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.s6 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  width: 310px;
+  height: 430px;
+  margin-left: 400px;
+  margin-top: -430px;
+}
+.s7 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  width: 310px;
+  height: 430px;
+  margin-left: 750px;
+  margin-top: -430px;
+}
+.s8 {
+  box-sizing: border-box;
+  border: 1px solid #eaecf0;
+  width: 310px;
+  height: 430px;
+  margin-left: 1100px;
+  margin-top: -430px;
+}
+nav {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: rgba(83, 83, 83, 0.33);
+  padding: 20px;
+  width: 1654px;
+  height: 512px;
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+.fb10 {
+  position: absolute;
+  height: 19px;
+  width: 20px;
+  border-radius: 0px;
+  margin-top: 10px;
+}
+.inst {
+  position: absolute;
+  height: 19px;
+  width: 20px;
+  border-radius: 0px;
+  margin-top: 10px;
+  margin-left: 30px;
+}
+.in {
+  position: absolute;
+  height: 19px;
+  width: 20px;
+  border-radius: 0px;
+  margin-top: 10px;
+  margin-left: 60px;
+}
+.MM{
+Font size: 14px;
+color: #535353;
+}
+.link2{
+  position: absolute;
+
+
+}
+.wblink{
+  display: flex;
+  margin-left: 250px;
+  flex-direction: column;
+
+}
+.links{
+  margin-top:100px;
+
+}
+.lii{
+  margin-top:50px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
+.link2{
+  font-family: 'Inter';
+font-style: normal;
+color: #1E1E1E;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+
+}
+.serv{
+  display: flex;
+  margin-left: 250px;
+  flex-direction: column;
+
+
+}
+.link3{  font-family: 'Inter';
+  font-style: normal;
+  color: #1E1E1E;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  
+
+}
+.linkss{
+  margin-top: 80px;
+}
+.ll{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+
+
+}
+.english{
+  background-color: rgba(5, 74, 104, 1);
+  width: 80px;
+height: 45px;
+  margin-top:130px;
+  display: flex;
+  justify-content: center;
+    align-items: center;
+}
+.langg{
+  display: inline-block;
+}
+.orive{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 150px;
+}
